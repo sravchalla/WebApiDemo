@@ -1,0 +1,20 @@
+#Global Ignores
+*.sln.docstates
+*.orig
+*.TMP
+.DS_Store
+[Tt]humbs.db
+_ReSharper.*
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/
+[Tt]emp[Bb]uild[Dd]ir/
+x64/
+x86/
+publish/
+.vs/
+.fake/
+.sonarqube/
+node_modules/
